@@ -21,7 +21,7 @@ long somaDivisores(long a)
 int main ()
 {
     long min = 1;
-    long max = 284;
+    long max = 100000;
     // Assumir que a entrada minima é 1 <= min <= max
 
     for (long a = min; a <= max; a++) {
